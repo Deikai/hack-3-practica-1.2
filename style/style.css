@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+div{
+    background: none;
+}
+main{
+    background: #93B5C9;
+    height: 150px;
+}
+nav{
+    background: #AB2849;
+    height: 250px;
+}
+section{
+    background: #AB2849;
+    height: 125px;
+    margin: 30px 0 30px 250px;
+}
+footer{
+    background: #AB2849;
+    margin: 50px 30px 0 30px;
+    height: 125px;
+}
