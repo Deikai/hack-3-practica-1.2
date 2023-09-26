@@ -1,1 +1,0 @@
-# hack-3-practica-1.2
